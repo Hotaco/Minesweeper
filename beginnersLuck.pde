@@ -17,7 +17,6 @@ public void removeMines()
         {
           if(mines.contains(buttons[r][c]) == true)
           {
-            System.out.println("Mine Removed: " + r + ", " + c);
             mines.remove(buttons[r][c]); 
           }
         }
