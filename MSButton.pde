@@ -51,7 +51,6 @@ public class MSButton
             {
               realMinesFlagged++;
               minesFlagged++;
-              System.out.println("Flagged!");
             }
             else if (!mines.contains(this))
             {
