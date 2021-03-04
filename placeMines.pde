@@ -13,7 +13,5 @@ public void placeMines(int num)
     {
       i--;
     }
-    System.out.print(row + ",");
-    System.out.println(col);
   }
 }
