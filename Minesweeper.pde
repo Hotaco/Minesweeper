@@ -83,7 +83,6 @@ public void displayLosingMessage()
 
 public void displayWinningMessage()
 {
-    System.out.print("You Win");
     text("YOU WIN",250,650);
     text(time,450,50);
 }
